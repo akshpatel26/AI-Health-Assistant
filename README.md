@@ -21,14 +21,13 @@ A comprehensive machine learning-powered health prediction application built wit
 
 ```
 ai-health-assistant/
-├── main.py                 # Main Streamlit application
-├── saved_models/           # Directory for trained ML models
+├── main.py                 
+├── saved_models/           
 │   ├── diabetes_model.sav
 │   ├── heart_disease_model.sav
 │   └── parkinsons_model.sav
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-└── assets/                # Images and static files (optional)
+├── requirements.txt       
+├── README.md                          
 ```
  
 ## 🚀 Quick Start
@@ -41,7 +40,7 @@ ai-health-assistant/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/akshpatel26/AI-Health-Assistant.git
    cd ai-health-assistant
    ```
 
