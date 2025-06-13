@@ -363,7 +363,7 @@ if selected == 'Diabetes Prediction':
         - 📏 **BMI**: Body Mass Index
         """)
 
-    # st.markdown('<div class="input-section">', unsafe_allow_html=True)
+    #st.markdown('<div class="input-section">', unsafe_allow_html=True)
     st.markdown("### 📝 Enter Your Health Parameters")
     
     # getting the input data from the user
