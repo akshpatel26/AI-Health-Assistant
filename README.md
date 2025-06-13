@@ -16,6 +16,8 @@ A comprehensive machine learning-powered health prediction application built wit
 - **📄 Comprehensive Reports**: Generate detailed health reports with recommendations
 - **🎨 Modern UI**: Dark theme with professional styling and responsive design
 
+### Live Demo 
+- 🔗 https://ai-health-assistant-by-aksh-patel.streamlit.app/
 
 ## 🗂️ Project Structure
 
