@@ -363,7 +363,7 @@ if selected == 'Diabetes Prediction':
         - 📏 **BMI**: Body Mass Index
         """)
 
-    st.markdown('<div class="input-section">', unsafe_allow_html=True)
+    # st.markdown('<div class="input-section">', unsafe_allow_html=True)
     st.markdown("### 📝 Enter Your Health Parameters")
     
     # getting the input data from the user
@@ -434,7 +434,7 @@ if selected == 'Heart Disease Prediction':
         - 🔬 **Clinical Tests**: ECG results, stress tests
         """)
 
-    st.markdown('<div class="input-section">', unsafe_allow_html=True)
+    # st.markdown('<div class="input-section">', unsafe_allow_html=True)
     st.markdown("### 📝 Enter Your Cardiovascular Parameters")
 
     col1, col2, col3 = st.columns(3)
@@ -511,7 +511,7 @@ if selected == "Parkinsons Prediction":
         - 📈 **Harmonic Ratios**: Voice quality indicators
         """)
 
-    st.markdown('<div class="input-section">', unsafe_allow_html=True)
+    # st.markdown('<div class="input-section">', unsafe_allow_html=True)
     st.markdown("### 📝 Enter Voice Analysis Parameters")
     
     st.info("🎤 These parameters are typically obtained from voice recording analysis. Consult with a healthcare professional for proper voice analysis.")
